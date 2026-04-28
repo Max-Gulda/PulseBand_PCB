@@ -1,4 +1,4 @@
-22291022468087011
+22299897063199937
 ADS131M04IPWR
 SOP65P640X120-20N
 
@@ -86351,6 +86351,13 @@ TAG-CONNECT_TC2050-IDC
 0
 10
 10
+TLV70018DCKR
+SOT65P210X110-5N
+
+
+0
+5
+5
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -92050,6 +92057,13 @@ SMA-TH_BNC-KWE-18
 3
 3
 easyeda2kicad
+SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL
+
+
+0
+8
+8
+easyeda2kicad
 SW-SMD_XDMK-12C01-25
 
 
@@ -92084,6 +92098,13 @@ WLCSP-25_L2.1-W2.1-R5-C5-P0.40-TL-1
 0
 25
 25
+easyeda2kicad
+WLP-30_L2.7-W2.9-R5-C6-P0.50-TL
+
+
+0
+30
+30
 easyeda2kicad2
 BAT-SMD_BS-08-B2AA016
 
@@ -92162,6 +92183,13 @@ SMA-TH_BNC-KWE-18
 3
 3
 easyeda2kicad2
+SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL
+
+
+0
+8
+8
+easyeda2kicad2
 SW-SMD_XDMK-12C01-25
 
 
@@ -92196,6 +92224,13 @@ WLCSP-25_L2.1-W2.1-R5-C5-P0.40-TL-1
 0
 25
 25
+easyeda2kicad2
+WLP-30_L2.7-W2.9-R5-C6-P0.50-TL
+
+
+0
+30
+30
 holyIOT
 holyIOT
 
