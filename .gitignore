@@ -1,1 +1,7 @@
 .DS_Store
+*-backups/
+production/backups/
+fp-info-cache
+*.lck
+~*.lck
+~_autosave-*
