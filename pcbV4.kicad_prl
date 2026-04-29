@@ -1,10 +1,12 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 37,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "GND"
+    ],
     "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
@@ -68,7 +70,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "pcbV2.kicad_prl",
+    "filename": "pcbV4.kicad_prl",
     "version": 3
   },
   "project": {
